@@ -28,3 +28,15 @@
 [submodule "vim-vinegar"]
 	path = vim-vinegar
 	url = https://github.com/tpope/vim-vinegar.git
+[submodule "vim-obsession"]
+	path = vim-obsession
+	url = https://github.com/tpope/vim-obsession.git
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "vim-tmux"]
+	path = vim-tmux
+	url = https://github.com/tmux-plugins/vim-tmux.git
